@@ -16,7 +16,7 @@ message ChartElementColor {
   // Value of color.
   // Can contain HEX or RGB value.
   oneof color_value {
-    string color_hex = 9;
-    RGB color_rgb = 10;
+    string color_hex = 1;
+    RGB color_rgb = 2;
   }
 }
