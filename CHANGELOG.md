@@ -1,10 +1,17 @@
 # Changelog
 
+## [v0.1.0] - 2021-05-20
+
+### Changed
+
+- Renamed `ChartViewBarsValues.BarsValues` to `ChartViewBarsValues.BarsDataset`
+- Renamed `ChartViewPointsValues.PointValues` to `ChartViewPointsValues.Point`
+
 ## [v0.0.1] - 2021-05-10
 
 First release of lc-proto specifications
 
-### New features
+### Added 
 
 - Added `api_service` specification for public API
 - Added `chart` specification with chart options
