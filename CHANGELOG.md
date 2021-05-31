@@ -1,5 +1,17 @@
 # Changelog
 
+## [v0.2.0] - 2021-05-31
+
+### Changed
+
+- Types of some fields of `ChartSizes`, `ChartMargins`, `ChartScale`, `ChartView` have been changed to optional
+
+## [v0.1.1] - 2021-05-30
+
+### Fixed
+
+- Removed unused imports
+
 ## [v0.1.0] - 2021-05-20
 
 ### Changed
