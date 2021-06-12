@@ -1,5 +1,12 @@
 # Changelog
 
+## [v0.3.0] - 2021-06-12
+
+### Changed
+
+- Type of `ChartScale.domain` changed to one of `DomainNumeric`, `DomainCategories`
+- Removed `x_scale`, `y_scale` fields from `ChartView`
+
 ## [v0.2.0] - 2021-05-31
 
 ### Changed
