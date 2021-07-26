@@ -1,5 +1,11 @@
 # Changelog
 
+## [v0.3.1] - 2021-07-26
+
+### Fixed
+
+- Fixed comments for `ChartView` `bar_label_visible`, `bar_label_position`, `point_visible`, `point_label_visible` fields
+
 ## [v0.3.0] - 2021-06-12
 
 ### Changed
