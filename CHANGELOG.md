@@ -1,5 +1,12 @@
 # Changelog
 
+## [v0.4.0] - 2021-08-02
+
+### Changed
+
+- `*_color` suffix was removed from all colors fields since they already inside `Colors` message.
+- `fill` and `stroke` fields in `ChartViewBarsValues` were moved to `ChartViewBarsValues.colors` message. 
+
 ## [v0.3.1] - 2021-07-26
 
 ### Fixed
